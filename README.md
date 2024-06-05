@@ -1,6 +1,6 @@
 # About
 
-Welcome to our Ecommerce Store! Powered by the MERN (MongoDB, Express.js, React, Node.js) stack, along with Tailwind CSS for styling, Redux for state management, Cloudinary for image storage, and Postman for API testing, our platform offers a seamless shopping experience for users.
+Hi, Welcome to our Ecommerce Store! Powered by the MERN (MongoDB, Express.js, React, Node.js) stack, along with Tailwind CSS for styling, Redux for state management, Cloudinary for image storage, and Postman for API testing, our platform offers a seamless shopping experience for users.
 
 # Key Features
 
