@@ -2,6 +2,8 @@
 
 Hi, Welcome to our Ecommerce Store! Powered by the MERN (MongoDB, Express.js, React, Node.js) stack, along with Tailwind CSS for styling, Redux for state management, Cloudinary for image storage, and Postman for API testing, our platform offers a seamless shopping experience for users.
 
+![Shoppers](https://github.com/pradyotsrivastava/shoppers-mern/assets/126956834/dfa9d4cd-ccdb-4204-a26f-a63937522690)
+
 # Key Features
 
 MERN Stack: Utilizes MongoDB for database management, Express.js for server-side logic, React for frontend development, and Node.js for backend development.
