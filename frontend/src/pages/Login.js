@@ -42,10 +42,10 @@ const Login = () => {
     const dataApi = await dataResponse.json();
 
     if (dataApi.success) {
-      toast.success(dataApi.message);
       await fetchUserDetails();
       await fetchUserAddToCart();
       navigate("/");
+      toast.success(dataApi.message);
     }
 
     if (dataApi.error) {
