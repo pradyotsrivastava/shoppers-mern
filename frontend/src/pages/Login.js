@@ -42,6 +42,7 @@ const Login = () => {
     const dataApi = await dataResponse.json();
 
     if (dataApi.success) {
+      console.log("Working Properly");
       await fetchUserDetails();
       await fetchUserAddToCart();
       navigate("/");
