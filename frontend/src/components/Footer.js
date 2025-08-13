@@ -16,7 +16,7 @@ const Footer = () => {
           <span>Get connected with us on social networks :</span>
         </div>
         {/* <!-- Social network icons container --> */}
-        <div className="flex justify-center tex-2xl gap-4">
+        {/* <div className="flex justify-center tex-2xl gap-4">
           <Link
             to={"https://www.linkedin.com/in/pradyotsrivastava/"}
             target="_blank"
@@ -35,7 +35,7 @@ const Footer = () => {
           >
             <MdOutlineCollections className="hover:text-blue-700  " />
           </Link>
-        </div>
+        </div> */}
       </div>
 
       <div className="mx-6 py-10 text-center md:text-left">
@@ -77,7 +77,7 @@ const Footer = () => {
             </div>
           </div>
           {/* <!-- Useful links section --> */}
-          <div className="">
+          {/* <div className="">
             <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
               Connect with Me
             </h6>
@@ -112,9 +112,9 @@ const Footer = () => {
                 </Link>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* <!-- Contact section --> */}
-          <div>
+          {/* <div>
             <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
               Contact
             </h6>
@@ -132,18 +132,18 @@ const Footer = () => {
                 <p>Prayagraj, Uttar Pradesh - 211011</p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 
       {/* <!--Copyright section--> */}
       <div className="bg-zinc-300 p-6 grid text-center ">
-        <Link to={"/sign-up"}>
+        {/* <Link to={"/sign-up"}>
           <button className="hover:scale-110 mx-auto  transition-all hover:underline hover:text-zinc-800 text-zinc-600 font-bold ml-1 ">
             Pradyot Srivastava
           </button>
-        </Link>
-        <span>© All Rights Reserved, 2024 </span>
+        </Link> */}
+        <span>© All Rights Reserved, 2025 </span>
       </div>
     </footer>
   );
